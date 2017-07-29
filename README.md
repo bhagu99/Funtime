@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img height="200" width="300" src="resources/background.png" alt="logo" />
+  <img src="resources/background.png" alt="logo" />
   <br />
   Fun Time
 </h1>
