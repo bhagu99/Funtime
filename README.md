@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img height="200" width="200" src="resources/background.png" alt="logo" />
+  <img height="200" width="300" src="resources/background.png" alt="logo" />
   <br />
   Fun Time
 </h1>
@@ -38,7 +38,13 @@
 ## Goals/Mockups:
 
 ### Home Page:
-![Home Page](https://github.com/amilajack/popcorn-time-desktop-design/raw/master/Desktop.jpg)
+
+<img src="resources/home.png" alt="Home" />
 
 ### Movie Page:
-![Movie page](https://raw.github.com/amilajack/popcorn-time-desktop/master/images/movie-page.jpg)
+
+<img src="resources/details.png" alt="Movie Details" />
+
+### Watch Screen:
+
+<img src="resources/Screen.png" alt="Movie Screen" />
