@@ -39,11 +39,11 @@
 
 ### Home Page:
 
-<img src="resources/home.png" alt="Home" />
+<img src="resources/Home.png" alt="Home" />
 
 ### Movie Page:
 
-<img src="resources/details.png" alt="Movie Details" />
+<img src="resources/Details.png" alt="Movie Details" />
 
 ### Watch Screen:
 
